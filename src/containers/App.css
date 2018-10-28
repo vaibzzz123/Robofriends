@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'AutoDestruct'; /*a name to be used later*/
+    src: url(autodestructbb_reg.ttf); /*URL to font*/
+}
+
+@font-face {
+    font-family: 'AutoDestructBold'; /*a name to be used later*/
+    src: url(autodestructbb_bold.ttf); /*URL to font*/
+}
+
+
+h1 {
+    font-family: AutoDestruct;
+    font-weight: 20;
+    color: #33ccff; /* TODO: find better colour */
+}
